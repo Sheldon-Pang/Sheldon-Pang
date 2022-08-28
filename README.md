@@ -1,12 +1,12 @@
 <!-- Title -->
-<h1 align="center">Hello World 
+<h1 align="center">Welcome
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
-       width="15px">
+       width="10px">
   </h2></h1>
 
 
 <!-- Quote -->
-<p align="center">I would like to change the World but they won't give me the source code</p>
+<p align="center">“And whatever you do, do it heartily, as to the Lord and not to men,” Colossians 3:23</p>
   
   <!-- Social Network -->
 <h1 align="center">
